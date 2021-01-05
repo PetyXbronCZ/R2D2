@@ -1,6 +1,7 @@
 # R2D2 on [top.gg](https://top.gg/bot/729243368579924049) [![Discord Bots](https://top.gg/api/widget/status/729243368579924049.svg)](https://top.gg/bot/729243368579924049)
 
 [![Discord Bots](https://top.gg/api/widget/729243368579924049.svg)](https://top.gg/bot/729243368579924049)
+
 ---
 # ALL DOCUMENTATION IS ON [TOP.GG](https://top.gg/bot/729243368579924049)!
 ---
