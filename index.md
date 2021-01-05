@@ -1,6 +1,6 @@
-# Welcome on our website!
-
 [![Discord Bots](https://top.gg/api/widget/status/729243368579924049.svg)](https://top.gg/bot/729243368579924049) [![Discord Bots](https://top.gg/api/widget/upvotes/729243368579924049.svg?noavatar=true)](https://top.gg/bot/729243368579924049) [![Discord Bots](https://top.gg/api/widget/owner/729243368579924049.svg?noavatar=true)](https://top.gg/bot/729243368579924049)
+
+#### R2D2 on [top.gg](https://discord.gg/vhS8UuuYDt)
 
 # R2D2 commands
 ---
