@@ -17,14 +17,6 @@
 ## INFO commands:
 **web | help | prefix | invite | ping | vote**
 
-## You can choose more languages!
-Just use command `,setlang (lang)`
-| Languages     | Translated    |
-| ------------- | -------------:|
-| EN (english)  | 100%          |
-| CZ (czech)    | 100%          |
-| GE (german)   | 94%           |
-
 Want to translate R2D2 into your language?
 Click [here](https://crwd.in/r2d2-bot) to visit translation website
 
