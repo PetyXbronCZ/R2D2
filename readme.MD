@@ -7,3 +7,34 @@ Každopádně, děkuji ti za návštěvu.
 Welcome.
 I don't know how you got here, but I want my code to be private, because it gave me a lot of work and such an application is easy to copy.
 Anyway, thank you for visiting.
+
+
+
+# R2D2 commands
+---
+## FUN commands:
+**meme | quick-poll | coin | snipe | howgay | rps | tictactioe**
+## MODERATION commands:
+**clean | mute | unmute | tempmute**
+## MISC commands:
+**covid | calculate | say | poll | giveaway | hello**
+## LEVEL commands:
+**rank | leaderboard**
+## MUSIC commands:
+**play | pause | resume | queue | clear-queue | shuffle | np | loop | volume | skip | stop**
+## INFO commands:
+**web | help | setprefix | setwelcome | setlang | invite | ping | vote**
+
+## You can choose more languages!
+Just use command `,setlang (lang)`
+| Languages     | Translated    |
+| ------------- | -------------:|
+| EN (english)  | 100%          |
+| CZ (czech)    | 100%          |
+| GE (german)   | 94%           |
+
+Want to translate R2D2 into your language?
+Click [here](https://crwd.in/r2d2-bot) to visit translation website
+
+## Need help, you don't know prefix of server?
+Mention **@R2D2** or use `,help (category or command)`
