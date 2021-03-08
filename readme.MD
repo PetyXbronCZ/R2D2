@@ -12,9 +12,9 @@ Anyway, thank you for visiting.
 # R2D2 commands
 ---
 ## FUN commands:
-**meme | quick-poll | coin | snipe | howgay | rps | tictactioe | covid | calculate | say | poll | hello**
+**meme | quick-poll | coin | snipe | howgay | rps | tictactioe | covid | calculate | say | poll | hello | list | mcbe | mcja**
 ## MODERATION commands:
-**clean | mute | unmute | tempmute**
+**clean | mute | unmute | warn | warns | delete-warn**
 ## STAR WARS commands:
 **planets**
 ## LEVEL commands:
@@ -29,13 +29,24 @@ Just use command `,setlang (lang)`
 | Languages     | Translated    |
 | ------------- | -------------:|
 | EN (english)  | 100%          |
-| CZ (czech)    | 100%          |
-| GE (german)   | 88%           |
-| PL (polish)   | 62%           |
-| NL (dutch)    | 100%          |
+| CZ (czech)    | 100%          |
+| GE (german)   | 100%          |
+| PL (polish)   | 37%           |
+| NL (dutch)    | 95%           |
 
 Want to translate R2D2 into your language?
 Click [here](https://crwd.in/r2d2-bot) to visit translation website
+
+## Need help, you don't know prefix of server?
+Mention **@R2D2** or use `,help (category or command)`
+
+---
+
+# LINKS HERE
+
+## [SUPPORT SERVER](https://discord.gg/vhS8UuuYDt)
+## [INVITE R2D2](bit.ly/bot-r2d2)
+
 
 ## Need help, you don't know prefix of server?
 Mention **@R2D2** or use `,help (category or command)`
